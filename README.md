@@ -4,7 +4,7 @@ Proxy-Prüfung und TCP-Flood-Simulation mit Endlosschleife, Registry-Speicherung
 
 ## Version
 
-**TCP-Flooder.exe Version 1.1.133**  
+**TCP-Flooder.exe Version 1.1.134**  
 **Herausgeber:** Preuss Germany
 
 ## Funktionen
